@@ -2,14 +2,12 @@
 # Campus Lost & Found — Sprint Captains
 
 ## Sprint Captain Schedule
-
 | Sprint | Merge Captain | Deputy |
 |---|---|---|
-| Sprint 1 | Noemhi Marquez | Justin Tzeng |
-| Sprint 2 | Justin Tzeng | Jorman Guadarrama |
+| Sprint 1 | Noemhi Marquez | Jorman Guadarrama |
+| Sprint 2 | Justin Tzeng | Noemhi Marquez |
 | Sprint 3 | Jorman Guadarrama | Oscar Aviles-Saldana |
-| Sprint 4 | Oscar Aviles-Saldana | Noemhi Marquez |
-
+| Sprint 4 | Oscar Aviles-Saldana | Justin Tzeng |
 ## Merge Captain Responsibilities
 
 - Coordinate pull request reviews.
