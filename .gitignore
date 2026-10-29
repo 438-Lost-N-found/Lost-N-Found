@@ -1,0 +1,33 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Java / Gradle
+.gradle/
+build/
+**/build/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Node.js / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Android
+local.properties
+*.apk
+*.aab
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
