@@ -1,0 +1,7 @@
+# Campus Lost & Found
+# Docker Compose configuration
+#
+# Services will be added once the team
+# finalizes the backend and database setup.
+
+services: {}
