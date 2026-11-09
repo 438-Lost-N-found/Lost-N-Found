@@ -1,10 +1,7 @@
-package lostnfound
-
-object LoginValidator {
-
-    fun isValid(email: String, password: String): Boolean {
-        return email.isNotBlank() &&
-                email.contains("@") &&
-                password.isNotBlank()
-    }
-}
+//package lostnfound
+//object LoginValidator {
+//    fun isValid(username: String, password: String): Boolean {
+//        return username.isNotBlank() &&
+//                password.isNotBlank()
+//    }
+//}
