@@ -7,7 +7,7 @@ import org.junit.Test
 class LoginActivityTest {
 
     @Test
-    fun validEmailAndPassword() {
+    fun validAndPassword() {
         assertTrue(
             LoginValidator.isValid(
                 "student@example.com",
