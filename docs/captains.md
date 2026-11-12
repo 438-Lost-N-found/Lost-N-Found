@@ -5,9 +5,9 @@
 | Sprint | Merge Captain | Deputy |
 |---|---|---|
 | Sprint 1 | Noemhi Marquez | Jorman Guadarrama |
-| Sprint 2 | Justin Tzeng | Noemhi Marquez |
-| Sprint 3 | Jorman Guadarrama | Oscar Aviles-Saldana |
-| Sprint 4 | Oscar Aviles-Saldana | Justin Tzeng |
+| Sprint 2 | Jorman Guadarrama | Justin Tzeng |
+| Sprint 3 | Justin Tzeng | Oscar Aviles-Saldana |
+| Sprint 4 | Oscar Aviles-Saldana | Noemhi Marquez |
 ## Merge Captain Responsibilities
 
 - Coordinate pull request reviews.
@@ -27,6 +27,8 @@
 
 Sprint 1:
 - Merge Captain: Noemhi Marquez
-- Deputy: Justin Tzeng
+- Deputy: Jorman Guadarrama
 
-Sprint 2-4 assignments are proposed and pending team approval.
+Sprint 2
+- Merge Captain: Jorman Guadarrama
+- Deputy: Justin Tzeng
