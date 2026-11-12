@@ -31,3 +31,4 @@ Everyone on the team adds their name and GitHub username in the PR that commits 
 | Name | GitHub |
 |---|---|
 | Noemhi Marquez|noemhi-marquez |
+| Jorman Guadarrama|jormanguadarrama |
